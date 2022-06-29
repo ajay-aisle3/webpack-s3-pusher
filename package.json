@@ -1,5 +1,5 @@
 {
-  "name": "webpack-s3-pusher",
+  "name": "aisle3-s3-pusher",
   "version": "2.1.1",
   "description": "A webpack plugin that pushes your packed assets to your S3 compatible bucket, no more, no less.",
   "main": "webpack.s3.pusher.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/olsgreen/webpack-s3-pusher.git"
+    "url": "https://github.com/ajay-aisle3/webpack-s3-pusher.git"
   },
   "keywords": [
     "s3",
@@ -19,7 +19,7 @@
     "laravel-mix",
     "laravel"
   ],
-  "author": "Oliver Green",
+  "author": "Aisle3",
   "license": "MIT",
   "dependencies": {
     "aws-sdk": "^2.291.0",

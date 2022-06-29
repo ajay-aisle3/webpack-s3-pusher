@@ -1,4 +1,4 @@
-# webpack-s3-pusher
+# aisle3-s3-pusher
 
 A webpack plugin that pushes your packed assets to S3 compatible bucket, no more, no less.
 
@@ -7,7 +7,7 @@ _For webpack < 4 support use version 1.x_
 ## Installation
 
 ```bash
-npm install webpack-s3-pusher
+npm install aisle3-s3-pusher
 ```
 
 ## Configuration
